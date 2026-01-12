@@ -1,0 +1,13 @@
+Name,Nature,Culture,Adventure,Luxury,Budget,FamilyFriendly,Recommended
+Beach Paradise,1,0,1,1,0,1,1
+Mountain Retreat,1,0,1,0,1,1,1
+City Explorer,0,1,0,1,1,1,0
+Cultural Hub,0,1,0,0,1,1,0
+Wildlife Safari,1,0,1,0,1,0,1
+Island Getaway,1,0,1,1,0,1,1
+Desert Adventure,0,0,1,0,1,0,0
+Forest Camping,1,0,1,0,1,1,1
+River Rafting,1,0,1,0,1,0,1
+Heritage Walk,0,1,0,0,1,1,0
+Spa Resort,1,0,0,1,0,1,1
+Urban Food Tour,0,1,0,1,1,1,0
